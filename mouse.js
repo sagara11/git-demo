@@ -1,3 +1,5 @@
-function mouse{
-
+function mouse(){
+ 
 };
+
+module.exports = mouse;
